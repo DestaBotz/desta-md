@@ -15,7 +15,7 @@ Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya, Lapor Ow
 
 //—————「 List 」—————//
 exports.list = (pushname) => {
-	return`Halo kak ${pushname}, silahkan dipilih list menu dibawah ini`
+	return`Hello ${pushname}, pilih aja list menu dibawah ini`
 }
 
 //—————「 All Menu 」—————//
@@ -416,29 +416,19 @@ return`  _Selamat ${salam} kak ${pushname}_
   *≻* ${prefix}setexif
   *≻* ${prefix}setmenu
   *≻* ${prefix}setallmenu
-  
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+
   `
 }
 
 //—————「 Welcome 」—————//
 exports.welcome = () => {
-	return`Welcome
+	return`Welcome cui 🗿
 `
 }
 
 //—————「 Leave 」—————//
 exports.leave = () => {
-	return`Byeee
+	return`byee😒
 `
 }
 
@@ -446,34 +436,21 @@ exports.leave = () => {
 exports.donasi  = (ownernomer) => {
 	return`
 —————「 *DONATE* 」—————
+*PAYMENT DESTA STORE*
 
-Hai kak ☺️ 
-Kalian bisa mendukung saya agar bot ini tetap up to date dengan cara donasi
-Berapapun donasi kalian akan sangat berarti 👍
+_• GOPAY ⬇️_
+LINK QR : https://ketkp.com/MkRwx
 
-Thanks!
+_• DANA ⬇️_
+LINK QR : https://ketkp.com/A62vd
 
-—————「 *SEWA | RUN BOT* 」—————
+_• OVO ⬇️_
+LINK QR : https://ketkp.com/vHYoa
 
-  *_SEWA BOT_* 
-  *≻* Sewa Bot 15k (1 minggu)
-  *≻* Sewa Bot 20k (1 bulan)
-  *≻* Sewa Bot 25k (Permanen)
+_• AllQRIS/AllPAYMENT ⬇️_
+LINK QR : https://ketkp.com/YXxTg
 
-  *JADI BOT* 
-  *≻* Jadi Bot 15k Tidak Owner (1 minggu)
-  *≻* Jadi Bot + Owner 20k (1 bulan)
-  *≻* Jadi Bot + Owner 25k (Permanen)
-
-  *JASA RUN BOT*
-  *≻* Run Bot 15k (1 minggu)
-  *≻* Run Bot 20k (1 bulan)
-  *≻* Run Bot 25k (Permanen)
-
-  *Minat? Langsung chat aja ya cuy 🐦*
-
-  *Contact person Owner* :
-  wa.me/${ownernomer}
+*_TF DAN KIRIM BUKTI SS KE DESTA STORE_*
 `
 }
 
@@ -950,17 +927,23 @@ exports.ownermenu = (prefix) => {
 }
 
 //tqto gsh di hps y :) kalau mai tmbhin aja nama kalian!
-exports.thanksto = () => {
+exports.sewabot = () => {
 	return`
-  *THANKS TO*
-  *≻* DikaArdnt
-  *≻* ZeeoneOfc
-  *≻* FatihArridho
-  *≻* Yoga
-  *≻* Riy
-  *≻* Deff
-  *≻* Sanzy
-  *≻* Nekel
-  *≻* Bagas Prdn
+—————「 *SEWA BOT* 」—————
+
+  *_SEWA BOT_* 
+  *≻* Sewa Bot 15k (1 minggu)
+  *≻* Sewa Bot 20k (1 bulan)
+  *≻* Sewa Bot 25k (Permanen)
+
+  *JASA RUN BOT*
+  *≻* Run Bot 15k (1 minggu)
+  *≻* Run Bot 20k (1 bulan)
+  *≻* Run Bot 35k (Permanen)
+
+  *Minat? Langsung chat aja ya cuy 🐦*
+
+  *Contact person Owner* :
+  wa.me/${ownernomer}
 `
 }
