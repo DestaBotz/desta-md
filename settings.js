@@ -33,7 +33,7 @@ global.footer = 'DESTA STORE' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
-global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
+global.youtube = 'https://youtube.com/channel/UCPUE0yyKRCdv1EyaGQc2WzA'
 global.ig = 'https://instagram.com/desta.arga07'
 global.mygc = 'https://chat.whatsapp.com/HdJr2FQua3TJS04PBF2sns'
 global.myweb = 'https://lynk.id/desta.store'
